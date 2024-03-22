@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UserCardProfile/static/css/main.0fb0497e.css",
+    "main.js": "/UserCardProfile/static/js/main.912b29c7.js",
+    "static/media/image-rita.jpg": "/UserCardProfile/static/media/image-rita.0e21e7cd4df13f906b10.jpg",
+    "static/media/bg-pattern-card.jpg": "/UserCardProfile/static/media/bg-pattern-card.3131c87a383744e589b0.jpg",
+    "index.html": "/UserCardProfile/index.html",
+    "main.0fb0497e.css.map": "/UserCardProfile/static/css/main.0fb0497e.css.map",
+    "main.912b29c7.js.map": "/UserCardProfile/static/js/main.912b29c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fb0497e.css",
+    "static/js/main.912b29c7.js"
+  ]
+}
