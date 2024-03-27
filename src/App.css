@@ -3,34 +3,6 @@
 	justify-content: center;
 	align-items: center;
 	width: 100vw;
-	min-height: 100vh;
+	height: 100vh;
 }
 
-/* .bg-pattern-top {
-	position: absolute;
-	background-image: url("./images/bg-pattern-top.svg");
-	background-position: bottom right;
-	background-repeat: no-repeat;
-	background-size: cover;
-	top: 0;
-	left: 0;
-	width: 50%;
-	height: 1000px;
-	transform: translateY(-50%);
-	z-index: -1;
-}
-
-.bg-pattern-bottom {
-	background-image: url("./images/bg-pattern-bottom.svg");
-	background-position: top left;
-	background-repeat: no-repeat;
-	background-size: cover;
-	position: absolute;
-	opacity: 0.7;
-	bottom: 0;
-	right: 0;
-	width: 50%;
-	height: 1000px;
-	transform: translateY(50%);
-	z-index: -1;
-} */
